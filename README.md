@@ -1,4 +1,4 @@
-# docker with OpenVAS
+# Installing Docker with OpenVAS/Greenbone vulnerability scanner
 
 **Welcome to how to install Docker**
 <p>This is how to install Docker on Ubuntu. I also installed OpenVAS/Greenbone vulnerability scanner via Docker. </p>
