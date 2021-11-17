@@ -1,7 +1,7 @@
 # docker with OpenVAS
 
 **Welcome to how to install Docker**
-<p>This is how to install Docker on Ubuntu. I also installed OopenVAS/Greenbone vulnerability scanner via Docker. </p>
+<p>This is how to install Docker on Ubuntu. I also installed OpenVAS/Greenbone vulnerability scanner via Docker. </p>
 <p>Go ahead and open up your Ubuntu VM and open terminal.</p>
 
 **Apt Update**
