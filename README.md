@@ -25,7 +25,7 @@
 <pre><code>sudo service docker status</code></pre>
 
 **Install Container for OpenVAS**
-<p>For you to run an application you will need to install a container for OpenVAS. This is the Container I used. The Container was not found locally, but it will download from Docker. So it will take a couple minutes.</p>
+<p>To run an application you will need to install a container for OpenVAS. This is the Container I used. The Container was not found locally, but it will download from Docker. So it will take a couple minutes.</p>
 <pre><code>sudo docker run -d -p 443:443 --name openvas mikesplain/openvas</code></pre>
 
 **Open Local Host**
